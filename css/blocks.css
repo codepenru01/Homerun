@@ -788,7 +788,7 @@
   height: 40px;
 }
 
-.btn {
+.btn__link {
   border: none;
   background: #595D68;
   border-radius: 0px 8px 8px 0px;
