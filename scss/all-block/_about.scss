@@ -1,0 +1,118 @@
+.about__section {
+    margin-bottom: 240px;
+}
+
+.services__section {
+    margin-bottom: 147px;
+}
+
+.hire {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hire__title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #0C9F64;
+    margin-bottom: 15px;
+}
+
+.hire__heading {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 1.5px;
+    color: rgba(14, 16, 22, 0.95);
+    width: 369px;
+    margin-bottom: 24px;
+}
+
+.hire__text {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 31px;
+    color: rgba(14, 16, 22, 0.95);
+    width: 392px;
+    margin-bottom: 30px;
+}
+
+.hire__link {
+    border: 2px solid #F8F4F4;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #333333;
+    padding: 15px;
+}
+
+.hire__link:hover {
+    border: 2px solid black;
+}
+
+.hire__img__text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(14, 16, 22, 0.4);
+}
+
+.create {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 217px;
+}
+
+.create__img__text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(14, 16, 22, 0.4);
+}
+
+.create__title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #FEC104;
+    margin-bottom: 15px;
+}
+
+.create__heading {
+    font-weight: 700;
+    font-size: 57px;
+    line-height: 64px;
+    letter-spacing: 1.5px;
+    color: rgba(14, 16, 22, 0.95);
+    width: 420px;
+    margin-bottom: 24px;
+}
+
+.create__text {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 31px;
+    color: rgba(14, 16, 22, 0.95);
+    width: 400px;
+    margin-bottom: 26px;
+}
+
+.create__link {
+    border: 2px solid #F8F4F4;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #333333;
+    padding: 15px;
+}
+
+.create__link:hover {
+    border: 2px solid black;
+}

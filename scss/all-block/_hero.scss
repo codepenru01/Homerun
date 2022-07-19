@@ -1,0 +1,105 @@
+.hero__heading {
+    width: 1090px;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 110px;
+    letter-spacing: 2px;
+    color: rgba(14, 16, 22, 0.95);
+    margin-top: 9px;
+    margin-bottom: 73px;
+    margin-left: 104px;
+    text-align: center;
+}
+
+.hero__text {
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    color: #35393F;
+    width: 509px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 71px;
+}
+
+.hero__label {
+    position: relative;
+    margin-left: 400px;
+    margin-bottom: 44px;
+}
+
+.hero__input {
+    background: #FFFFFF;
+    border-radius: 8px 0px 0px 8px;
+    border: 2px solid #0099FF;;
+    width: 300px;
+    height: 54px;
+}
+
+.hero__btn {
+    position: absolute;
+    left: 300px;
+    right: 0;
+    background: #0099FF;
+    border-radius: 0px 8px 8px 0px;
+    color: #FFFFFF;
+    width: 157px;
+    height: 54px;
+    padding: 15px 0;
+    cursor: pointer;
+    border: none;
+}
+
+.hero__btn:hover {
+    background-color: #fff;
+    color: #0099FF;
+    border: 2px solid #0099FF;
+    border-left: none;
+}
+
+.hero__input::placeholder {
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #B2B2B2;
+}
+
+.hero__input:hover {
+    background: #FFFFFF;
+}
+
+.hero__line {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #B2B2B2;
+}
+
+.link__hero {
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #B2B2B2;
+    margin-top: 44px;
+}
+
+.cards {
+    margin-left: 60px;
+    margin-bottom: 90px;
+}
+
+.about__heading {
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 56px;
+    letter-spacing: 1.5px;
+    color: #000000;
+    margin-left: 450px;
+    margin-bottom: 30px;
+}
+
+.about__background {
+    margin-left: 250px;
+}

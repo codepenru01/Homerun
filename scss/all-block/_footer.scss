@@ -1,0 +1,149 @@
+.footer__section {
+    background-image: url('../../images/footer__bgc.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1240px;
+    height: 640px;
+    margin-bottom: 60px;
+    padding-top: 26px;
+    padding-right: 25px;
+    padding-bottom: 59px;
+    padding-left: 40px;
+}
+
+.footer__logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 26px;
+    margin-bottom: 49px;
+}
+
+.logo__img-link {
+    background: #029EFF;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: all 0.5s;
+    border: 2px solid #029EFF;
+}
+
+.logo__img-link:hover {
+    background-color: #fff;
+    color: #029EFF;
+}
+
+.footer__bottom {
+    display: flex;
+    align-items: center;
+}
+
+.list__item {
+    margin-bottom: 20px;
+}
+
+.list__item-link {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    color: #778291;
+}
+
+.list__item-link:hover {
+    font-weight: 700;
+    color: #0C9F64;
+}
+
+.list__item-link:active {
+    font-weight: 700;
+    color: #FEC104;
+}
+
+.white {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.green {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #0C9F64;
+}
+
+.yellow {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FEC104;
+}
+
+.bottom {
+    margin-bottom: 49px;
+}
+
+.contact {
+    margin-bottom: 39px;
+}
+
+.learn {
+    margin-right: 184px;
+    margin-left: 83px;
+}
+
+.about_homerun {
+    margin-right: 102px;
+}
+
+.form__heading {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.form {
+    position: relative;
+}
+
+.input__head {
+    background: rgba(119, 130, 145, 0.3);
+    border-radius: 8px 0px 0px 8px;
+    border: none;
+    width: 256px;
+    height: 40px;
+}
+
+.btn {
+    border: none;
+    background: #595D68;
+    border-radius: 0px 8px 8px 0px;
+    width: 78px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.images {
+    margin-top: 25px;
+}
+
+.instagram-links {
+    margin-right: 8px;
+}
+
+.in-links {
+    margin-right: 8px;
+}
+
+.twitter-links {
+    margin-right: 8px;
+}

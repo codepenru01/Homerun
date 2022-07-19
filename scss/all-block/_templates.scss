@@ -1,0 +1,88 @@
+.templates__section {
+    background: #3CA9FF;
+    border-radius: 20px;
+    width: 1240px;
+    height: 601px;
+    margin-bottom: 60px;
+}
+
+.dog__logo {
+    display: inline-block;
+    margin-top: 60px;
+    margin-bottom: 14px;
+    margin-left: 520px;
+
+}
+
+.templates-heading {
+    font-weight: 700;
+    font-size: 57px;
+    line-height: 64px;
+    text-align: center;
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+}
+
+.templates__heading {
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 64px;
+    text-align: center;
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+}
+
+.templates__link {
+    display: inline-block;
+    background: #0E1016;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 15px 20px;
+    transition: all 0.5s;
+    border: 2px #0E1016;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-bottom: 31px;
+    margin-left: 544px;
+}
+
+.templates__link:hover {
+    background-color: #fff;
+    color: #0E1016;
+}
+
+.yes {
+    display: flex;
+    align-items: center;
+}
+
+.yes__one {
+    display: flex;
+    align-items: center;
+    margin-right: 24px;
+    margin-left: 423px;
+}
+
+.yes__text__one {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.yes__two {
+    display: flex;
+    align-items: center;
+}
+.yes__text__two {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}

@@ -1,0 +1,40 @@
+.result__section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.result__left {
+    margin-right: 350px;
+}
+
+.result__left__logo {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.result__heading {
+    font-weight: 700;
+    font-size: 82px;
+    line-height: 115px;
+    color: rgba(14, 16, 22, 0.95);
+    margin-bottom: 14px;
+}
+
+.result__left__star {
+    margin-bottom: 25px;
+}
+
+.result__title {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: rgba(14, 16, 22, 0.95);
+}
+
+.result__right {
+    text-align: center;
+}

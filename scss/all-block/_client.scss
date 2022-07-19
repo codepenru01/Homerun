@@ -1,0 +1,113 @@
+.client__section {
+    background-image: url('../../images/client.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1240px;
+    height: 1107px;
+    margin-bottom: 40px;
+}
+
+.logo__client__img {
+    margin-top: 70px;
+    margin-bottom: 24px;
+    margin-left: 580px;
+}
+
+.client__heading {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: center;
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+
+.client__text {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 31px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.client__text + .client__text {
+    margin-bottom: 69px;
+}
+
+.client__link {
+    border: 2px solid #F8F4F4;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    color: #F4F6F8;
+    padding: 22px;
+    margin-left: 514px;
+}
+
+.client__link:hover {
+    border: 2px solid #202E78;
+    background-color: #F4F6F8;
+    color: #202E78;
+}
+
+.client__body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin: 80px 40px 0;
+}
+
+.client__title {
+    background-image: url('../../images/client__body.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 580px;
+    height: 520px;
+    padding-top: 40px;
+    padding-right: 70px;
+    padding-left: 40px;
+}
+
+.client__dop__text {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: #FFFFFF;
+    width: 470px;
+    margin-bottom: 21px;
+}
+
+.dop__title {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.dop__text {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 31px;
+    color: #FFFFFF;
+    margin-bottom: 66px;
+}
+
+.dop__link {
+    border: 2px solid #F8F4F4;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #F4F6F8;
+    padding: 19px 22px;
+    margin-top: 20px;
+}
+
+.dop__link:hover {
+    background-color: #fff;
+    color: #202E78;
+}
